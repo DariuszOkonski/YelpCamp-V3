@@ -42,3 +42,12 @@ module.exports.places = [
   'Cliffs',
   'Hollow',
 ];
+
+module.exports.lorem = [
+  'Lorem ipsum dolor sit amet consectetur adipisicing elit. Perspiciatis, reprehenderit.',
+  'Lorem ipsum dolor sit, amet consectetur adipisicing elit. Beatae porro deserunt in perferendis dolores, id dolorem repellendus hic praesentium. Voluptas!',
+  'Lorem ipsum dolor sit, amet consectetur adipisicing elit. Fuga, voluptas! Voluptate maiores nostrum nemo molestiae. Architecto eum, illo voluptates facilis voluptate rerum amet commodi corporis delectus ducimus repellendus nisi facere!',
+  'Lorem ipsum dolor, sit amet consectetur adipisicing elit. Saepe quas voluptatem vitae aliquid, commodi sed pariatur tempore dicta praesentium quo, esse doloribus eum voluptatum nisi doloremque nihil, soluta quia blanditiis repellendus explicabo magni minus assumenda. Eos est consectetur ipsam quibusdam!',
+  'Lorem ipsum dolor sit amet consectetur adipisicing elit. Incidunt libero quod alias enim. Tenetur optio, illum incidunt voluptatem aut maiores exercitationem possimus numquam placeat obcaecati dolorum hic at harum beatae qui nam non, eius voluptatum sapiente veritatis dolores quas ipsam? Fugiat dignissimos tempora nam cum sequi libero corrupti necessitatibus debitis?',
+  'Lorem ipsum dolor sit amet, consectetur adipisicing elit. Cupiditate commodi omnis ullam delectus totam quisquam voluptate atque beatae impedit repellendus distinctio cumque quibusdam eligendi et tempora deserunt vel vitae reprehenderit eveniet, illo fugit quod fugiat ducimus! Quasi eaque recusandae omnis laudantium dolor, nemo dicta magni nulla praesentium distinctio. Harum consequuntur mollitia velit consectetur dolorem laudantium quisquam, vel ipsa saepe libero.',
+];
